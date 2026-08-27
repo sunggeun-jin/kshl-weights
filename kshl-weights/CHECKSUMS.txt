@@ -1,0 +1,1 @@
+d7e89a147ebbe50cace111a73128e2be75664070995fee5b693c41839617c296  ksl_mp_model/best.safetensors

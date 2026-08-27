@@ -1,0 +1,21 @@
+{
+  "top1": 0.9578132300914491,
+  "top5": 0.9974634537080301,
+  "epoch": 24,
+  "dim": 256,
+  "depth": 4,
+  "heads": 4,
+  "n_class": 3000,
+  "n_kp": 55,
+  "n_ch": 3,
+  "frames": 64,
+  "aug": {
+    "hand_drop": 0.32,
+    "flip": 0.5,
+    "rot": 13.0,
+    "scale": 0.2,
+    "shift": 0.1,
+    "noise": 0.01,
+    "frame_drop": 0.05
+  }
+}
